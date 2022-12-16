@@ -1,0 +1,21 @@
+.Header_container {
+    width: 100%;
+    padding: 20px 0;
+    /* background-color: blue; */
+}
+
+.Header_container>h1 {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px 0;
+    text-align: center;
+    font-weight: bold;
+    background-color: #F2133C;
+    border: 1px solid #F2133C;
+    color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 2px 2px 3px #aaa;
+    letter-spacing: -0.05em;
+}
